@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/Jayadityas/6Companies30days/tree/master/1876-map-of-highest-peak) |
+## Math
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Jayadityas/6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Jayadityas/6Companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
